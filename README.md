@@ -1,7 +1,7 @@
 <h3> Olá, eu sou Pádua Neto!  Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 </h3>  
 <h4></h4>   
            
-<h6> 💫 #desenvolvimentoweb, #computação, #tecnologia </h6>
+<h6> 💫 #python | #django | #DRF | #flask | #desenvolvimentoweb </h6>
    
 ## 
   
